@@ -6,3 +6,4 @@ def greet(name):
 if __name__ == "__main__":
     name = "World"
     print(greet(name))
+    print(greet(name))
